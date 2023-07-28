@@ -23,6 +23,30 @@
       "month": 1,
       "day": 8,
       "hour": 1
+    },
+    {
+      "id": "2023-01-08T01:00:08.987160000Z_-075.715700_+007.206200_013",
+      "longitude": -75.7157,
+      "latitude": 7.2062,
+      "time": "2023-01-08T01:00:08.987160000Z",
+      "time_ts": "2023-01-08 01:00:08.987",
+      "ingest_time": "2023-01-08T01:00:22.897623000Z",
+      "source": 13,
+      "kamps": -18.512,
+      "c2c": false,
+      "c2c_height": null,
+      "ee_bearing": 0,
+      "ee_major": 0,
+      "ee_minor": 0,
+      "sensors": 9,
+      "event_year": 2023,
+      "event_month": 1,
+      "event_day": 8,
+      "event_hour": 0,
+      "year": 2023,
+      "month": 1,
+      "day": 8,
+      "hour": 1
     }
   ],
   "profile": {
